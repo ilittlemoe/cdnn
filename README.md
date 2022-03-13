@@ -1,12 +1,4 @@
 # cdnn
-<!--
- * @Author: littlemoe
- * @Date: 2022-03-13 08:52:50
- * @LastEditTime: 2022-03-13 14:57:17
- * @Description: 
- * @Version: 
- * ————————————————————
--->
 
 jsdelivr加速
 
@@ -16,28 +8,28 @@ jsdelivr加速
 
 网站 404 页面
 
-[![](https://data.jsdelivr.com/v1/package/gh/ilittlemoe/cdnn/badge)](https://cdn.jsdelivr.net/gh/ilittlemoe/cdnn@master/404page/)
+[![](https://data.jsdelivr.com/v1/package/gh/ilittlemoe/cdnn/badge)](https://cdn.jsdelivr.net/gh/ilittlemoe/cdnn@main/404page/)
 
 # assets
 
 网站静态文件
 
-[![](https://data.jsdelivr.com/v1/package/gh/ilittlemoe/cdnn/badge)](https://cdn.jsdelivr.net/gh/ilittlemoe/cdnn@master/assets/)
+[![](https://data.jsdelivr.com/v1/package/gh/ilittlemoe/cdnn/badge)](https://cdn.jsdelivr.net/gh/ilittlemoe/cdnn@main/assets/)
 
 # blog_img
 
 网站固定图像
 
-[![](https://data.jsdelivr.com/v1/package/gh/ilittlemoe/cdnn/badge)](https://cdn.jsdelivr.net/gh/ilittlemoe/cdnn@master/blog_img/)
+[![](https://data.jsdelivr.com/v1/package/gh/ilittlemoe/cdnn/badge)](https://cdn.jsdelivr.net/gh/ilittlemoe/cdnn@main/blog_img/)
 
 # headimg
 
 文章头图
 
-[![](https://data.jsdelivr.com/v1/package/gh/ilittlemoe/cdnn/badge)](https://cdn.jsdelivr.net/gh/ilittlemoe/cdnn@master/headimg/)
+[![](https://data.jsdelivr.com/v1/package/gh/ilittlemoe/cdnn/badge)](https://cdn.jsdelivr.net/gh/ilittlemoe/cdnn@main/headimg/)
 
 # js
 
 js 脚本
 
-[![](https://data.jsdelivr.com/v1/package/gh/ilittlemoe/cdnn/badge)](https://cdn.jsdelivr.net/gh/ilittlemoe/cdnn@master/js/)
+[![](https://data.jsdelivr.com/v1/package/gh/ilittlemoe/cdnn/badge)](https://cdn.jsdelivr.net/gh/ilittlemoe/cdnn@main/js/)
